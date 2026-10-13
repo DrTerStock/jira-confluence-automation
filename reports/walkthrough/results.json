@@ -2,7 +2,7 @@
   "date": "2026-10-13",
   "browser": "Installed Google Chrome via Playwright",
   "mockOnly": true,
-  "scaleLoadMs": 63,
+  "scaleLoadMs": 56,
   "results": [
     {
       "name": "Normal startup rejects unverified access",

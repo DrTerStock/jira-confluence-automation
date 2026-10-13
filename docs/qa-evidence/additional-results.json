@@ -1,0 +1,22 @@
+{
+  "mockOnly": true,
+  "results": [
+    {
+      "name": "Required board blocks empty submission",
+      "status": "pass"
+    },
+    {
+      "name": "Invalid estimate field blocks submission",
+      "status": "pass"
+    },
+    {
+      "name": "Cancel closes form without saving",
+      "status": "pass"
+    },
+    {
+      "name": "Favicon and console regression",
+      "status": "pass"
+    }
+  ],
+  "messages": []
+}

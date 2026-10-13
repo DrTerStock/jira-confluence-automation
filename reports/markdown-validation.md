@@ -1,7 +1,7 @@
 # Markdown Validation Results
 
-- Files scanned: 49
-- Files passing: 49
+- Files scanned: 51
+- Files passing: 51
 - Files needing attention: 0
 - Total findings: 0
 
@@ -15,6 +15,7 @@
 | `AGENTS.md` | Pass | None |
 | `backlog.md` | Pass | None |
 | `change_request_registry.md` | Pass | None |
+| `docs/qa-report.md` | Pass | None |
 | `instructions/calculate-compound-interest.agent.md` | Pass | None |
 | `instructions/create-status-report.agent.md` | Pass | None |
 | `instructions/creating-instructions.agent.md` | Pass | None |
@@ -55,4 +56,5 @@
 | `work/module-14-report.md` | Pass | None |
 | `work/module-15-report.md` | Pass | None |
 | `work/module-16-report.md` | Pass | None |
+| `work/module-17-report.md` | Pass | None |
 | `work/module03-task/README.md` | Pass | None |
