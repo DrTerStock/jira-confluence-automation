@@ -1,0 +1,5 @@
+- Identify the exact claim or status being established and what evidence would support it.
+- Prefer current primary sources for external capabilities and repository records, tests, or explicit decisions for project status.
+- Record the source and verification date for material claims, and distinguish documented behavior from account-specific or runtime verification.
+- Treat absent, incomplete, or conflicting evidence as unresolved; do not infer support, success, completion, or a zero value from missing data.
+- State evidence gaps and limitations explicitly, and do not present assumptions or inferences as verified facts.

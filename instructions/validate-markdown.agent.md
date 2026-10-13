@@ -1,0 +1,5 @@
+- Use `python3 scripts/validate_markdown.py` to validate every `.md` file in the project.
+- Include hidden project folders and untracked Markdown files; exclude `.git`, virtual environments, dependency folders, build outputs, and the generated `reports/markdown-validation.md` report.
+- Check UTF-8 encoding without a byte-order mark, LF-only line endings, a final newline for non-empty files, and absence of trailing spaces or tabs.
+- Review `reports/markdown-validation.md` for the scanned-file and finding counts and each file's status before reporting results.
+- Correct reported issues in source files, rerun the validator, and commit the updated report with any requested source changes.

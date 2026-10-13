@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-13",
+  "browser": "Installed Google Chrome via Playwright",
+  "mockOnly": true,
+  "scaleLoadMs": 63,
+  "results": [
+    {
+      "name": "Normal startup rejects unverified access",
+      "status": "pass"
+    },
+    {
+      "name": "New widget displays configuration entry and unavailable history",
+      "status": "pass"
+    },
+    {
+      "name": "Configuration saves board, providers and explicit preferences without secrets",
+      "status": "pass"
+    },
+    {
+      "name": "Summary filters epics/subtasks, groups work and shows explicit blockers",
+      "status": "pass"
+    },
+    {
+      "name": "Manual refresh creates dated PostgreSQL history",
+      "status": "pass"
+    },
+    {
+      "name": "Historical sprint selection works",
+      "status": "pass"
+    },
+    {
+      "name": "Date range and provider controls update scoped reports",
+      "status": "pass"
+    },
+    {
+      "name": "Provider failure preserves good and retained data with stale warning",
+      "status": "pass"
+    },
+    {
+      "name": "Fresh mixed provider report has prominent partial status",
+      "status": "pass"
+    },
+    {
+      "name": "Jira denial clears retained protected data",
+      "status": "pass"
+    },
+    {
+      "name": "Jira rate limit exposes retry guidance and retained stale result",
+      "status": "pass"
+    },
+    {
+      "name": "Successful empty provider query is distinct from zero",
+      "status": "pass"
+    },
+    {
+      "name": "Viewer cannot configure or read admin readiness",
+      "status": "pass"
+    },
+    {
+      "name": "Trusted editor can configure without administrator readiness access",
+      "status": "pass"
+    },
+    {
+      "name": "Second widget has independent board and enabled sources",
+      "status": "pass"
+    },
+    {
+      "name": "Denied Confluence page reveals no report data",
+      "status": "pass"
+    },
+    {
+      "name": "Already old provider data is immediately marked stale",
+      "status": "pass"
+    },
+    {
+      "name": "500-issue mock dashboard becomes usable within three seconds",
+      "status": "pass"
+    },
+    {
+      "name": "Mobile layout has no horizontal overflow",
+      "status": "pass"
+    },
+    {
+      "name": "Dashboard and configuration controls work with the keyboard",
+      "status": "pass"
+    },
+    {
+      "name": "Browser reports no uncaught JavaScript errors",
+      "status": "pass"
+    }
+  ],
+  "errors": []
+}
